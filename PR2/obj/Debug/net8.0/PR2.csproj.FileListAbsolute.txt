@@ -1,0 +1,14 @@
+C:\Users\shiiineboi\source\repos\PR2\PR2\bin\Debug\net8.0\PR2.exe
+C:\Users\shiiineboi\source\repos\PR2\PR2\bin\Debug\net8.0\PR2.deps.json
+C:\Users\shiiineboi\source\repos\PR2\PR2\bin\Debug\net8.0\PR2.runtimeconfig.json
+C:\Users\shiiineboi\source\repos\PR2\PR2\bin\Debug\net8.0\PR2.dll
+C:\Users\shiiineboi\source\repos\PR2\PR2\bin\Debug\net8.0\PR2.pdb
+C:\Users\shiiineboi\source\repos\PR2\PR2\obj\Debug\net8.0\PR2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\shiiineboi\source\repos\PR2\PR2\obj\Debug\net8.0\PR2.AssemblyInfoInputs.cache
+C:\Users\shiiineboi\source\repos\PR2\PR2\obj\Debug\net8.0\PR2.AssemblyInfo.cs
+C:\Users\shiiineboi\source\repos\PR2\PR2\obj\Debug\net8.0\PR2.csproj.CoreCompileInputs.cache
+C:\Users\shiiineboi\source\repos\PR2\PR2\obj\Debug\net8.0\PR2.dll
+C:\Users\shiiineboi\source\repos\PR2\PR2\obj\Debug\net8.0\refint\PR2.dll
+C:\Users\shiiineboi\source\repos\PR2\PR2\obj\Debug\net8.0\PR2.pdb
+C:\Users\shiiineboi\source\repos\PR2\PR2\obj\Debug\net8.0\PR2.genruntimeconfig.cache
+C:\Users\shiiineboi\source\repos\PR2\PR2\obj\Debug\net8.0\ref\PR2.dll
